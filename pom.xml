@@ -9,6 +9,7 @@
 
   <modules>
     <module>rpc-common</module>
+    <module>rpc-jvm-client</module>
     <module>rpc-server</module>
   </modules>
 
